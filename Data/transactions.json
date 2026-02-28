@@ -1,0 +1,1487 @@
+[
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-02-13",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Done",
+    "id": 1771203161977
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-02-12",
+    "description": "March Mortgage Payment",
+    "status": "Done",
+    "id": 1771203232484
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-02-06",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Done",
+    "id": 1771203299743
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-02-20",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Done",
+    "id": 1771203329471
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-02-06",
+    "description": "February Toyota Auto Loan",
+    "status": "Done",
+    "id": 1771203407051
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-02-06",
+    "description": "February Tesla Auto Loan",
+    "status": "Done",
+    "id": 1771203434755
+  },
+  {
+    "amount": 3150,
+    "category": "Income",
+    "date": "2026-02-27",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "id": 1771203624549,
+    "status": "Done",
+    "type": "PayCheck"
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-02-06",
+    "description": "APS Training - Prajwal",
+    "status": "Done",
+    "id": 1771203734359
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 1650,
+    "date": "2026-02-12",
+    "description": "Prajwal Birthday Expense",
+    "status": "Done",
+    "id": 1771203781585
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 1500,
+    "date": "2026-02-20",
+    "description": "India Transfer (30L + 5L Chit Fund)",
+    "status": "Done",
+    "id": 1771203953007
+  },
+  {
+    "amount": 1500,
+    "category": "House Expenses",
+    "date": "2026-02-27",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "id": 1771204176433,
+    "status": "Done",
+    "type": "MandatoryExpense"
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-01-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Done",
+    "id": 1771281543521
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-01-09",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Done",
+    "id": 1771281625606
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-01-30",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Done",
+    "id": 1771281665710
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-01-23",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Done",
+    "id": 1771281699997
+  },
+  {
+    "type": "AdditionalIncome",
+    "category": "MortgageRefund",
+    "amount": 495,
+    "date": "2026-01-31",
+    "description": "Refund from MrCooper",
+    "status": "Done",
+    "id": 1771281911524
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-01-15",
+    "description": "Home Loan",
+    "status": "Done",
+    "id": 1771281966256
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 1620,
+    "date": "2026-01-23",
+    "description": "India Transfer (30L + 5L Chit Fund)",
+    "status": "Done",
+    "id": 1771281998604
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-01-31",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Done",
+    "id": 1771282055923
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-01-09",
+    "description": "January Toyota Auto Loan",
+    "status": "Done",
+    "id": 1771282204621
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-01-09",
+    "description": "January Tesla Auto Loan",
+    "status": "Done",
+    "id": 1771282224894
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Travel",
+    "amount": 2176,
+    "date": "2026-01-09",
+    "description": "Flight Tickets for Amma & Nanna",
+    "status": "Done",
+    "id": 1771282396677
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 810,
+    "date": "2026-01-31",
+    "description": "HOA Payment",
+    "status": "Done",
+    "id": 1771282424686
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Travel",
+    "amount": 633,
+    "date": "2026-01-15",
+    "description": "Flight Tickets to Omaha",
+    "status": "Done",
+    "id": 1771282585235
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 112,
+    "date": "2026-01-24",
+    "description": "TurboTax Fee - Tax Filing for FY2025",
+    "status": "Done",
+    "id": 1771282616202
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-03-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771283605519
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-03-06",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771283639565
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-03-31",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398197
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-03-20",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398198
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-03-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398199
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 1500,
+    "date": "2026-03-20",
+    "description": "India Transfer (30L + 5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398200
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-03-31",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398201
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-03-06",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398202
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-03-06",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398203
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-03-31",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398204
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-04-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398205
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-04-03",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398206
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-04-30",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398207
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-04-17",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398208
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-04-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398209
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 1500,
+    "date": "2026-04-17",
+    "description": "India Transfer (30L + 5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398210
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-04-30",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398211
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-04-03",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398212
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-04-03",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398213
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-04-30",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398214
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 500,
+    "date": "2026-04-11",
+    "description": "Madhavi Vadina House Warming Gift",
+    "status": "Scheduled",
+    "id": 1771284398215
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 2100,
+    "date": "2026-04-30",
+    "description": "Visitor Insurance for Amma & Nanna",
+    "status": "Scheduled",
+    "id": 1771284398216
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-05-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398217
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-05-01",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398218
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-05-29",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398219
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-05-15",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398220
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-05-29",
+    "description": "Divya 3rd Pay Check @ Polaris",
+    "status": "Scheduled",
+    "id": 1771284398221
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-05-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398222
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 1500,
+    "date": "2026-05-15",
+    "description": "India Transfer (30L + 5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398223
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-05-31",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398224
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-05-01",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398225
+  },
+  {
+    "id": 1771284398227,
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789.0,
+    "date": "2026-05-01",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled"
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-05-31",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398228
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-06-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398229
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-06-12",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398230
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-06-30",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398231
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-06-26",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398232
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-06-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398233
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 1500,
+    "date": "2026-06-26",
+    "description": "India Transfer (30L + 5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398234
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-06-30",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398235
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-06-12",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398236
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-06-12",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398237
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-06-30",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398238
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Auto Insurance",
+    "amount": 3000,
+    "date": "2026-06-18",
+    "description": "Car Insurance Renewal (Every 6 Months)",
+    "status": "Scheduled",
+    "id": 1771284398239
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Insurance",
+    "amount": 350,
+    "date": "2026-06-26",
+    "description": "LIC Policy @ Krishna (Every 6 Months)",
+    "status": "Scheduled",
+    "id": 1771284398240
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Insurance",
+    "amount": 350,
+    "date": "2026-06-26",
+    "description": "LIC Policy @ Divya (Every 6 Months)",
+    "status": "Scheduled",
+    "id": 1771284398241
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-07-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398242
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-07-10",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398243
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-07-31",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398244
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-07-24",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398245
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-07-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398246
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 500,
+    "date": "2026-07-24",
+    "description": "India Transfer (5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398247
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-07-31",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398248
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-07-10",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398249
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-07-10",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398250
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-07-31",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398251
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 1000,
+    "date": "2026-07-15",
+    "description": "Ammamma Function",
+    "status": "Scheduled",
+    "id": 1771284398252
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-08-14",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398253
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-08-07",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398254
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-08-31",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398256
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-08-21",
+    "description": "Divya 2nd Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398257
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-08-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398258
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 500,
+    "date": "2026-08-21",
+    "description": "India Transfer (5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398259
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-08-31",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398260
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-08-07",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398261
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-08-07",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398262
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-08-31",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398263
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 500,
+    "date": "2026-08-28",
+    "description": "Divya Vratham",
+    "status": "Scheduled",
+    "id": 1771284398264
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Insurance",
+    "amount": 1150,
+    "date": "2026-08-31",
+    "description": "Max Life Insurance Policy (1L @ September)",
+    "status": "Scheduled",
+    "id": 1771284398265
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-09-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398266
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-09-30",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398267
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3379,
+    "date": "2026-09-04",
+    "description": "Divya 1st Pay Check @ Polaris - 2026",
+    "status": "Scheduled",
+    "id": 1771284398268
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-09-15",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398269
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 500,
+    "date": "2026-09-30",
+    "description": "India Transfer (5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398270
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-09-30",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398271
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-09-04",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398272
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-09-04",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398273
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-09-30",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398274
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-10-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398275
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-10-30",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398276
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-10-30",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398277
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "India Transfer",
+    "amount": 500,
+    "date": "2026-10-30",
+    "description": "India Transfer (5L Chit Fund)",
+    "status": "Scheduled",
+    "id": 1771284398278
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-10-30",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398279
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-10-15",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398280
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-10-15",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398281
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-10-30",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398283
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-11-13",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398284
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-11-27",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398285
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-11-27",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398286
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-11-30",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398288
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-11-13",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398289
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-11-13",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398290
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-11-30",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398291
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3175,
+    "date": "2026-12-15",
+    "description": "Krishna 1st Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398292
+  },
+  {
+    "type": "PayCheck",
+    "category": "Income",
+    "amount": 3150,
+    "date": "2026-12-31",
+    "description": "Krishna 2nd Pay Check @ ICE - 2026",
+    "status": "Scheduled",
+    "id": 1771284398293
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Housing",
+    "amount": 4900,
+    "date": "2026-12-31",
+    "description": "Home Loan",
+    "status": "Scheduled",
+    "id": 1771284398294
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "House Expenses",
+    "amount": 1500,
+    "date": "2026-12-31",
+    "description": "House Expenses (Utilities, Groceries, etc...)",
+    "status": "Scheduled",
+    "id": 1771284398296
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 933,
+    "date": "2026-12-15",
+    "description": "Toyota Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398297
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "AutoLoan",
+    "amount": 789,
+    "date": "2026-12-15",
+    "description": "Tesla Auto Loan",
+    "status": "Scheduled",
+    "id": 1771284398298
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-12-31",
+    "description": "APS Training - Prajwal",
+    "status": "Scheduled",
+    "id": 1771284398299
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Auto Insurance",
+    "amount": 3000,
+    "date": "2026-12-18",
+    "description": "Car Insurance Renewal (Every 6 Months)",
+    "status": "Scheduled",
+    "id": 1771284398300
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Insurance",
+    "amount": 350,
+    "date": "2026-12-31",
+    "description": "LIC Policy @ Krishna (Every 6 Months)",
+    "status": "Scheduled",
+    "id": 1771284398301
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Insurance",
+    "amount": 350,
+    "date": "2026-12-31",
+    "description": "LIC Policy @ Divya (Every 6 Months)",
+    "status": "Scheduled",
+    "id": 1771284398302
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "CarTagRenewal",
+    "amount": 300,
+    "date": "2026-12-31",
+    "description": "Car Registration Renewals (Every Year)",
+    "status": "Scheduled",
+    "id": 1771284398303
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 200,
+    "date": "2026-02-15",
+    "description": "Dollars Sent to Amma & Nanna",
+    "status": "Done",
+    "id": 1771288942044
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-02-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Done",
+    "id": 1771290995609
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-03-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291040972
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-04-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291383322
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-05-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291399255
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-06-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291418829
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-07-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291506737
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-08-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291521868
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-09-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291538971
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-10-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291570755
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-11-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291585037
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Healthcare",
+    "amount": 302,
+    "date": "2026-12-13",
+    "description": "Prajwal Dental Treatment",
+    "status": "Scheduled",
+    "id": 1771291601619
+  },
+  {
+    "type": "AdditionalIncome",
+    "category": "TaxRefund",
+    "amount": 1776,
+    "date": "2026-03-31",
+    "description": "2025 Tax year Federal Refund",
+    "status": "Scheduled",
+    "id": 1771292564435
+  },
+  {
+    "type": "AdditionalIncome",
+    "category": "TaxRefund",
+    "amount": 1634,
+    "date": "2026-03-31",
+    "description": "2025 Tax year Georgia Refund",
+    "status": "Scheduled",
+    "id": 1771292591595
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 160,
+    "date": "2026-01-01",
+    "description": "Kiddie Academy Daycare Fee",
+    "status": "Done",
+    "id": 1771292707924
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 160,
+    "date": "2026-02-01",
+    "description": "Kiddie Academy Daycare Fee",
+    "status": "Done",
+    "id": 1771292722725
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 160,
+    "date": "2026-03-01",
+    "description": "Kiddie Academy Daycare Fee",
+    "status": "Scheduled",
+    "id": 1771292737273
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 160,
+    "date": "2026-04-01",
+    "description": "Kiddie Academy Daycare Fee",
+    "status": "Scheduled",
+    "id": 1771292750734
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 160,
+    "date": "2026-05-01",
+    "description": "Kiddie Academy Daycare Fee",
+    "status": "Scheduled",
+    "id": 1771292766042
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 600,
+    "date": "2026-01-31",
+    "description": "Cabinets Installation - HomeDepot & Lowes ",
+    "status": "Done",
+    "id": 1771292951664
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-01-09",
+    "description": "Prajwal Swimming Classes",
+    "status": "Done",
+    "id": 1771293316245
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-01-16",
+    "description": "Prajwal Swimming Classes",
+    "status": "Done",
+    "id": 1771293331481
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-01-23",
+    "description": "Prajwal Swimming Classes",
+    "status": "Done",
+    "id": 1771293344193
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-01-30",
+    "description": "Prajwal Swimming Classes",
+    "status": "Done",
+    "id": 1771293363981
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-02-16",
+    "description": "Prajwal Swimming Classes",
+    "status": "Done",
+    "id": 1771293399160
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-02-06",
+    "description": "Prajwal Swimming Classes",
+    "status": "Done",
+    "id": 1771293413346
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 85,
+    "date": "2026-01-02",
+    "description": "APS Training - Prajwal",
+    "status": "Done",
+    "id": 1771293518903
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "HouseMaintenance",
+    "amount": 59,
+    "date": "2026-02-10",
+    "description": "Turf Master Lawn Care ",
+    "status": "Done",
+    "id": 1771295286575
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "HouseMaintenance",
+    "amount": 59,
+    "date": "2026-01-12",
+    "description": "Turf Masters Lawn Care",
+    "status": "Done",
+    "id": 1771295415542
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-03-06",
+    "description": "Prajwal Swimming Classes",
+    "status": "Scheduled",
+    "id": 1771296356542
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-03-13",
+    "description": "Prajwal Swimming Classes",
+    "status": "Scheduled",
+    "id": 1771296371136
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-03-20",
+    "description": "Prajwal Swimming Classes",
+    "status": "Scheduled",
+    "id": 1771296387291
+  },
+  {
+    "type": "MandatoryExpense",
+    "category": "Education",
+    "amount": 40,
+    "date": "2026-03-27",
+    "description": "Prajwal Swimming Classes",
+    "status": "Scheduled",
+    "id": 1771296404642
+  },
+  {
+    "type": "OptionalExpense",
+    "category": "Other",
+    "amount": 64,
+    "date": "2026-02-12",
+    "description": "TurboTax Fee - Tax Filing for FY2025",
+    "status": "Done",
+    "id": 1771296696075
+  },
+  {
+    "amount": 40,
+    "category": "Education",
+    "date": "2026-02-25",
+    "description": "Prajwal Swimming Classes",
+    "id": 1771327579632,
+    "status": "Done",
+    "type": "MandatoryExpense"
+  },
+  {
+    "type": "AdditionalIncome",
+    "category": "Income",
+    "amount": 300,
+    "date": "2026-02-24",
+    "description": "Chase New Checking account Bonus",
+    "status": "Done",
+    "id": 1772062692067
+  }
+]
