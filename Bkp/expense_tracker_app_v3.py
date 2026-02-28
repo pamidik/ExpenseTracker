@@ -252,16 +252,6 @@ def add_category():
         traceback.print_exc()
         return jsonify({'error': error_msg}), 400
 
-@app.route('/api/budgets', methods=['GET'])
-def get_budgets():
-    """Get budgets - feature not implemented in PostgreSQL version"""
-    return jsonify([])
-
-@app.route('/api/budgets', methods=['POST'])
-def save_budgets():
-    """Save budgets - feature not implemented in PostgreSQL version"""
-    return jsonify({'message': 'Budgets feature not available'}), 200
-
 @app.route('/api/export', methods=['GET'])
 def export_csv():
     """Export transactions as CSV"""
