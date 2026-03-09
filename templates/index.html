@@ -3567,22 +3567,30 @@
                 const response = await fetch('/api/categories', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ category: categoryName })
+                    body: JSON.stringify({ name: categoryName })  // Fixed: was 'category', should be 'name'
                 });
                 
                 const data = await response.json();
-                if (data.success) {
-                    categories = data.categories;
+                
+                if (response.ok) {
+                    // Add to local categories array
+                    categories.push(categoryName);
+                    categories.sort();
+                    
+                    // Update all dropdowns
                     populateCategoryDropdowns();
                     updateCategoryListSettings();
+                    
+                    // Clear input
                     input.value = '';
-                    alert('Category added successfully!');
+                    
+                    alert(`Category "${categoryName}" added successfully!`);
                 } else {
-                    alert(data.message);
+                    alert(data.error || 'Failed to add category');
                 }
             } catch (error) {
                 console.error('Error adding category:', error);
-                alert('Failed to add category');
+                alert('Failed to add category. Please try again.');
             }
         }
 
@@ -3730,21 +3738,29 @@
                 const response = await fetch('/api/categories', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ category: categoryName })
+                    body: JSON.stringify({ name: categoryName })  // Fixed: was 'category', should be 'name'
                 });
                 
                 const data = await response.json();
-                if (data.success) {
-                    categories = data.categories;
+                
+                if (response.ok) {
+                    // Add to local categories array
+                    categories.push(categoryName);
+                    categories.sort();
+                    
+                    // Update all dropdowns
                     populateCategoryDropdowns();
+                    
+                    // Clear input
                     input.value = '';
-                    alert('Category added successfully!');
+                    
+                    alert(`Category "${categoryName}" added successfully!`);
                 } else {
-                    alert(data.message);
+                    alert(data.error || 'Failed to add category');
                 }
             } catch (error) {
                 console.error('Error adding category:', error);
-                alert('Failed to add category');
+                alert('Failed to add category. Please try again.');
             }
         }
 
